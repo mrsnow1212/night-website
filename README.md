@@ -11,7 +11,6 @@
 ### To Do
 
 [x] Main page
-[x] Login page
 
 ## Contributors
 

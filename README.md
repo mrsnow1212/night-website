@@ -8,6 +8,10 @@
 
   * [Elytra Readme](https://github.com/Elytra-Server/Elytra/blob/develop/README.md) i don't know how to create beautiful readme, so I based it on the readme of the Elytra project
 
+### To Do
+
+[x] - Main page
+[ ] - Login Page
 
 ## Contributors
 

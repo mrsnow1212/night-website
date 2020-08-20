@@ -1,5 +1,6 @@
-<img src="https://i.imgur.com/YOyePqx.gif" alt="Azure" title="Azure" align="right"/>
 ## Azure Website
+
+<img src="https://i.imgur.com/YOyePqx.gif" alt="Azure" title="Azure" align="center"/>
 
 [![MIT License](https://img.shields.io/badge/license-AGPLV3-blue.svg?color=1bcc1b)](https://choosealicense.com/licenses/agpl-3.0/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)

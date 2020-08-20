@@ -10,8 +10,8 @@
 
 ### To Do
 
-[x] - Main page
-[ ] - Login Page
+[x] Main page
+[x] Login page
 
 ## Contributors
 

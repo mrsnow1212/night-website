@@ -2,7 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<img src="https://i.imgur.com/YOyePqx.gif" alt="Azure" title="Azure" align="center"/>
+<img src="https://i.imgur.com/4bHI8JL.gif" alt="Azure" title="Night" align="center"/>
 
 ### Credits
 
